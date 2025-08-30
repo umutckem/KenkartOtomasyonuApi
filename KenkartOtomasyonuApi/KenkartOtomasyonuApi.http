@@ -1,0 +1,6 @@
+@KenkartOtomasyonuApi_HostAddress = http://localhost:5089
+
+GET {{KenkartOtomasyonuApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
