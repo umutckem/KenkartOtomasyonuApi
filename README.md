@@ -190,6 +190,11 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
+## Ekran Görüntüsü
+
+<img width="1887" height="544" alt="image" src="https://github.com/user-attachments/assets/741610e2-3f37-4ea0-adc6-b987ec17a239" />
+
+
 Proje hakkında sorularınız için issue açabilir veya [email] adresinden ulaşabilirsiniz.
 
 ---
